@@ -1,0 +1,10 @@
+D:\Daniel Seidecaru\PersonalGit\CalculatorTutorial\CalculatorTutorial\bin\Debug\CalculatorTutorial.exe.config
+D:\Daniel Seidecaru\PersonalGit\CalculatorTutorial\CalculatorTutorial\bin\Debug\CalculatorTutorial.exe
+D:\Daniel Seidecaru\PersonalGit\CalculatorTutorial\CalculatorTutorial\bin\Debug\CalculatorTutorial.pdb
+D:\Daniel Seidecaru\PersonalGit\CalculatorTutorial\CalculatorTutorial\obj\Debug\CalculatorTutorial.csprojAssemblyReference.cache
+D:\Daniel Seidecaru\PersonalGit\CalculatorTutorial\CalculatorTutorial\obj\Debug\CalculatorTutorial.Form1.resources
+D:\Daniel Seidecaru\PersonalGit\CalculatorTutorial\CalculatorTutorial\obj\Debug\CalculatorTutorial.Properties.Resources.resources
+D:\Daniel Seidecaru\PersonalGit\CalculatorTutorial\CalculatorTutorial\obj\Debug\CalculatorTutorial.csproj.GenerateResource.cache
+D:\Daniel Seidecaru\PersonalGit\CalculatorTutorial\CalculatorTutorial\obj\Debug\CalculatorTutorial.csproj.CoreCompileInputs.cache
+D:\Daniel Seidecaru\PersonalGit\CalculatorTutorial\CalculatorTutorial\obj\Debug\CalculatorTutorial.exe
+D:\Daniel Seidecaru\PersonalGit\CalculatorTutorial\CalculatorTutorial\obj\Debug\CalculatorTutorial.pdb
